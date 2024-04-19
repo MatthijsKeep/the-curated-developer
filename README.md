@@ -1,1 +1,52 @@
-# the-curated-developer
+# The Curated Developer
+
+A collection of awesome tools, resources, and shiny things for developers. Curated by me for personal use and shared with the world.
+
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Python Resources](#python-resources)
+- [Terminal Tools](#terminal-tools)
+- [Version Control](#version-control)
+- [Development Environments](#development-environments)
+- [Databases](#databases)
+- [APIs](#apis)
+- [Testing](#testing)
+- [Continuous Integration and Continuous Deployment](#continuous-integration-and-continuous-deployment)
+- [Security](#security)
+- [Performance](#performance)
+- [Frontend Development](#frontend-development)
+- [Backend Development](#backend-development)
+- [Mobile Development](#mobile-development)
+- [Machine Learning](#machine-learning)
+- [Data Visualization](#data-visualization)
+- [DevOps](#devops)
+- [Books](#books)
+- [Blogs](#blogs)
+- [Podcasts](#podcasts)
+- [Conferences](#conferences)
+- [Contributing](#contributing)
+
+## Introduction
+
+This repository is a personal collection of the best tools and resources I've found or used in my development career. It's a living document that I update regularly as I discover new and interesting things that help me be a better developer. I try to not mention the obvious things. 
+
+## Python Resources
+
+- [Awesome Python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software, and resources.
+
+## Terminal Tools
+
+- [Starship](https://starship.rs) - The minimal, blazing-fast, and infinitely customizable prompt for any shell.
+- [Git-cz](https://github.com/streamich/git-cz) - Command-line tool to facilitate conventional commit messages.
+
+## Podcasts
+
+- 
+
+## Newsletters
+
+## Contributing
+
+Although this list is mainly for myself, your contributions are always welcome! Please take a look at the [contribution guidelines](CONTRIBUTING.md) first.
+
