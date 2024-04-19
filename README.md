@@ -16,12 +16,12 @@ This repository is a personal collection of the best tools and resources I've fo
 
 ## Python Resources
 
-- [Awesome Python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software, and resources.
+- [Awesome Python](https://github.com/MatthijsKeep/the-curated-developer/tree/main/python/awesome-python) - A curated list of awesome Python frameworks, libraries, software, and resources.
 
 ## Terminal Tools
 
-- [Starship](https://starship.rs) - The minimal, blazing-fast, and infinitely customizable prompt for any shell.
-- [Git-cz](https://github.com/streamich/git-cz) - Command-line tool to facilitate conventional commit messages.
+- [Starship](https://github.com/MatthijsKeep/the-curated-developer/tree/main/terminal/starship) - The minimal, blazing-fast, and infinitely customizable prompt for any shell.
+- [Git-cz](https://github.com/MatthijsKeep/the-curated-developer/tree/main/terminal/git-cz) - Command-line tool to facilitate conventional commit messages.
 
 ## Podcasts
 
